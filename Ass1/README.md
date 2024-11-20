@@ -76,12 +76,4 @@ The code produces a set of three plots:
 2. **SIR Model:** Tracks Susceptible, Infected, and Recovered populations over time.
 3. **Two-Factor Model:** Tracks Susceptible, Exposed, and Infected populations over time.
 
----
 
-## **Contributions**
-Feel free to contribute by submitting pull requests to enhance the models, improve visualizations, or add new features.
-
----
-
-## **License**
-This project is open-source and available under the [MIT License](LICENSE).
