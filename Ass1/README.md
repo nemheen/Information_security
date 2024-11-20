@@ -33,12 +33,6 @@ It accounts for:
 - Birth and natural death rates (`mu`).
 - Transition rates between compartments (`beta`, `etha`, `gamma`).
 
----
-
-## **Features**
-- **Numerical Simulation:** The models are solved iteratively using differential equations.
-- **Visualization:** Each model's population dynamics are visualized over time using Matplotlib.
-- **Parameter Customization:** Model parameters like infection rate (`beta`), recovery rate (`gamma`), and population size (`N`) are adjustable.
 
 ---
 
@@ -51,22 +45,6 @@ Install them using pip:
 ```bash
 pip install numpy matplotlib
 ```
-
----
-
-## **Usage**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/EpidemicModels.git
-   cd EpidemicModels
-   ```
-
-2. Run the script:
-   ```bash
-   python epidemic_models.py
-   ```
-
-3. Explore the dynamics of each model in the generated plots.
 
 ---
 
