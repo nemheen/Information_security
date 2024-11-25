@@ -64,18 +64,11 @@ The Rail Fence Cipher rearranges text into a zigzag pattern across multiple "rai
    cd ClassicCipherPractice
    ```
 
-2. Run the desired script:
-   ```bash
-   python affine_cipher.py
-   python gronsfeld_cipher.py
-   python rail_fence_cipher.py
-   ```
-
-3. Enter plaintext and keys as prompted, and the program will display the results.
+2. Enter plaintext and keys as prompted, and the program will display the results.
 
 ---
 
-## **Learning Objectives**
+## **Objectives**
 - Understand how classic ciphers work through hands-on coding.
 - Explore different encryption techniques and their unique principles.
 - Build a foundation for understanding more advanced cryptographic algorithms.
